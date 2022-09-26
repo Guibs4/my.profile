@@ -1,0 +1,82 @@
+h2	{text-align: center;}
+h1	{text-align: center;}
+h3 {text-decoration: none;text-align: center; color: rgb(120,108,100) ;
+	font-family: "Prosto One";
+}
+
+h1	{
+	color:  #34614D;
+	font-family: "Prosto One";
+}
+
+h2	{
+	color: #FFFAED;
+	font-family: "Prosto One";
+}
+
+p	{
+	color:  #FFFAED;
+	text-align: center;
+	font-family: "Nunito";
+}
+
+a	{ 	color: #FFFAED;
+	font-family: "Poiret One";
+}
+
+body	{
+	background-color: rgba(120,180,140,0.97);
+}
+
+
+li { 
+	list-style: none ;
+	color: #FFFAED ;
+	font-size: 35px;
+	display: inline;
+	margin: auto;
+	padding: 7px;
+}
+
+a:hover { color:  rgb(120,108,100); }
+
+div	{ 
+	width: 800px;
+	background-attachment: white;
+	border-radius: 15px;
+	box-shadow: 10px 20px 30px rgba(59, 84, 73, 1.0);
+	margin: 50px;
+	padding: 30px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(160, 195, 156);
+ }
+
+ul	{
+	padding: 10px;
+}
+
+#card-img {
+	background-image: linear-gradient url(images/IMG_0299.JPG);
+	color: white;
+	background-size: cover;
+	background-position: center;
+}
+
+#second { 
+	background-image: url(images/IMG_0299.JPG);
+	color: white;
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 h2	{text-align: center;}
 h1	{text-align: center;}
-h3 {text-decoration: none;text-align: center; color: rgb(120,108,100) ;
+h3 {text-decoration: none;text-align: center; color: #FFFAED ;
 	font-family: "Prosto One";
 }
 
@@ -57,12 +57,6 @@ ul	{
 	padding: 10px;
 }
 
-#card-img {
-	background-image: linear-gradient url(images/IMG_0299.JPG);
-	color: white;
-	background-size: cover;
-	background-position: center;
-}
 
 #second { 
 	background-image: url(images/IMG_0299.JPG);
@@ -73,7 +67,7 @@ ul	{
 }
 
 #third {
-	background-image: url(images/golden sand.jpeg);
+	background-image: url(images/sandd.jpeg);
 	color: white;
 	background-size: cover;
 	background-position: center;
